@@ -1,14 +1,13 @@
 package es.ieslosmontecillos.helloworld;
 
 import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
 
 //Programa que imprime por consola "Hello World!"
-public class HelloApplication extends Application {
+public class HelloWorld extends Application {
     @Override
     public void start(Stage stage) throws IOException {
 
